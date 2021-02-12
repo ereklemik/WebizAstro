@@ -1,0 +1,34 @@
+table{
+    width:99%; 
+ 
+}
+
+table,th,td{
+    border: 1px solid #888b84; 
+    
+}
+
+thead{
+    background:#f15c21;
+    font-family: 'Shadows Into Light', cursive;
+    font-size:45px;
+    color:#e7eb04;
+    text-shadow:3px 3px #21201f;
+
+}
+tbody{
+    background:#8d5738; 
+}
+
+td{
+    color:#fffcf9;
+    font-family:'Stalinist One', cursive;
+    padding:0.5%;
+    text-shadow:3px 3px #21201f;
+    text-align:center;
+  
+}
+
+th{
+    height:66px;;
+}
